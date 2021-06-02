@@ -1,0 +1,233 @@
+111103005008|창경궁로|Changgyeonggung-ro|10|서울특별시|Seoul|종로구|Jongno-gu|연건동|Yeongeon-dong|1|166|0||신규||
+111103100009|우정국로|Ujeongguk-ro|06|서울특별시|Seoul|종로구|Jongno-gu|서린동|Seorin-dong|1|123|0||신규||
+111104100135|사직로8길|Sajik-ro 8-gil|07|서울특별시|Seoul|종로구|Jongno-gu|적선동|Jeokseon-dong|1|107|0||신규||
+111404103013|남대문로1길|Namdaemun-ro 1-gil|04|서울특별시|Seoul|중구|Jung-gu|소공동|Sogong-dong|1|111|0||신규||
+111404103023|남대문시장길|Namdaemunsijang-gil|05|서울특별시|Seoul|중구|Jung-gu|충무로1가|Chungmuro 1(il)-ga|1|124|0||신규||
+111404103202|세종대로7길|Sejong-daero 7-gil|03|서울특별시|Seoul|중구|Jung-gu|봉래동1가|Bongnae-dong 1(il)-ga|1|119|0||신규||
+111404103244|을지로24길|Eulji-ro 24-gil|02|서울특별시|Seoul|중구|Jung-gu|인현동2가|Inhyeon-dong 2(i)-ga|1|134|0||신규||
+112603000001|동일로|Dongil-ro|05|서울특별시|Seoul|중랑구|Jungnang-gu|신내동|Sinnae-dong|1|106|0||신규||
+112903005035|안암로|Anam-ro|04|서울특별시|Seoul|성북구|Seongbuk-gu|종암동|Jongam-dong|1|135|0||신규||
+112904121762|화랑로21길|Hwarang-ro 21-gil|02|서울특별시|Seoul|성북구|Seongbuk-gu|장위동|Jangwi-dong|1|138|0||신규||
+113504130394|한글비석로22길|Hangeulbiseok-ro 22-gil|02|서울특별시|Seoul|노원구|Nowon-gu|상계동|Sanggye-dong|1|105|0||신규||
+114403113023|토정로|Tojeong-ro|11|서울특별시|Seoul|마포구|Mapo-gu|마포동|Mapo-dong|1|107|0||신규||
+114404139597|토정로31길|Tojeong-ro 31-gil|03|서울특별시|Seoul|마포구|Mapo-gu|염리동|Yeomni-dong|1|109|0||신규||
+116804857179|밤고개로28길|Bamgogae-ro 28-gil|00|서울특별시|Seoul|강남구|Gangnam-gu|||2||0||신규||
+117103202004|감일남로|Gamillam-ro|00|서울특별시|Seoul|송파구|Songpa-gu|||2||0||신규||
+117104169533|송파대로10길|Songpa-daero 10-gil|01|서울특별시|Seoul|송파구|Songpa-gu|장지동|Jangji-dong|1|109|0||신규||
+264403350854|명지국제3로|Myeongjigukje 3-ro|01|부산광역시|Busan|강서구|Gangseo-gu|명지동|Myeongji-dong|1|104|0||신규||
+264403351975|미음국제1로|Mieumgukje 1-ro|01|부산광역시|Busan|강서구|Gangseo-gu|미음동|Mieum-dong|1|115|0||신규||
+267103352236|오리산단5로|Orisandan 5-ro|01|부산광역시|Busan|기장군|Gijang-gun|장안읍|Jangan-eup|0|253|0||신규||
+277103000054|과학남로|Gwahangnam-ro|00|대구광역시|Daegu|달성군|Dalseong-gun|||2||1|1|27710335241800||
+277103000054|과학남로|Gwahangnam-ro|01|대구광역시|Daegu|달성군|Dalseong-gun|구지면|Guji-myeon|0|380|1|1|27710335241801||
+277103352418|국가산단남로|Gukgasandannam-ro|00|대구광역시|Daegu|달성군|Dalseong-gun|||2||0||신규||
+277103352418|국가산단남로|Gukgasandannam-ro|01|대구광역시|Daegu|달성군|Dalseong-gun|구지면|Guji-myeon|0|380|0||신규||
+277104857206|석샘길|Seoksaem-gil|00|대구광역시|Daegu|달성군|Dalseong-gun|||2||0||신규||
+281772008005|아암대로|Aam-daero|03|인천광역시|Incheon|미추홀구|Michuhol-gu|주안동|Juan-dong|1|105|0||신규||
+281854856823|하모니로138번길|Hamony-ro 138beon-gil|01|인천광역시|Incheon|연수구|Yeonsu-gu|송도동|Songdo-dong|1|106|0||신규||
+282454856031|서운산단로7길|Seounsandan-ro 7-gil|01|인천광역시|Incheon|계양구|Gyeyang-gu|서운동|Seoun-dong|1|104|0||신규||
+282604268775|비지니스로193번길|Business-ro 193beon-gil|01|인천광역시|Incheon|서구|Seo-gu|청라동|Cheongna-dong|1|122|0||신규||
+291553281095|영산로|Yeongsan-ro|02|광주광역시|Gwangju|남구|Nam-gu|칠석동|Chilseok-dong|1|123|0||신규||
+291553351957|효천1로|Hyocheon 1-ro|01|광주광역시|Gwangju|남구|Nam-gu|임암동|Imam-dong|1|111|0||신규||
+291554283221|도금마을길|Dogeummaeul-gil|02|광주광역시|Gwangju|남구|Nam-gu|원산동|Wonsan-dong|1|129|0||신규||
+292003163083|연산로|Yeonsan-ro|03|광주광역시|Gwangju|광산구|Gwangsan-gu|월전동|Woljeon-dong|1|146|0||신규||
+292003351943|평동산단9번로|Pyeongdongsandan 9beon-ro|01|광주광역시|Gwangju|광산구|Gwangsan-gu|월전동|Woljeon-dong|1|146|0||신규||
+292003352471|평동3차진입로|Pyeongdong 3chajinip-ro|00|광주광역시|Gwangju|광산구|Gwangsan-gu|||2||0||신규||
+292004289010|고봉로102번길|Gobong-ro 102beon-gil|00|광주광역시|Gwangju|광산구|Gwangsan-gu|||2||1|1|||
+292004289010|고봉로102번길|Gobong-ro 102beon-gil|01|광주광역시|Gwangju|광산구|Gwangsan-gu|하남동|Hanam-dong|1|125|1|1|||
+292004289017|고봉로68번길|Gobong-ro 68beon-gil|00|광주광역시|Gwangju|광산구|Gwangsan-gu|||2||1|1|||
+292004289017|고봉로68번길|Gobong-ro 68beon-gil|01|광주광역시|Gwangju|광산구|Gwangsan-gu|하남동|Hanam-dong|1|125|1|1|||
+292004855420|고봉로125번안길|Gobong-ro 125beonan-gil|01|광주광역시|Gwangju|광산구|Gwangsan-gu|하남동|Hanam-dong|1|125|0||신규||
+292004855427|단전4길|Danjeon 4-gil|01|광주광역시|Gwangju|광산구|Gwangsan-gu|하남동|Hanam-dong|1|125|0||신규||
+292004855428|단전3길|Danjeon 3-gil|01|광주광역시|Gwangju|광산구|Gwangsan-gu|하남동|Hanam-dong|1|125|0||신규||
+292004855439|하남울로12번길|Hanamul-ro 12beon-gil|02|광주광역시|Gwangju|광산구|Gwangsan-gu|하남동|Hanam-dong|1|125|0||신규||
+301103010002|대전로|Daejeon-ro|14|대전광역시|Daejeon|동구|Dong-gu|용전동|Yongjeon-dong|1|115|0||신규||
+301104292395|역전1길|Yeokjeon 1-gil|02|대전광역시|Daejeon|동구|Dong-gu|중동|Jung-dong|1|120|0||신규||
+301104854019|하소로85번길|Haso-ro 85beon-gil|01|대전광역시|Daejeon|동구|Dong-gu|하소동|Haso-dong|1|145|0||신규||
+301704857075|야실길|Yasil-gil|01|대전광역시|Daejeon|서구|Seo-gu|봉곡동|Bonggok-dong|1|126|0||신규||
+302004301581|덕명로16번길|Deongmyeong-ro 16beon-gil|01|대전광역시|Daejeon|유성구|Yuseong-gu|덕명동|Deongmyeong-dong|1|113|0||신규||
+312003351986|박상진8로|Baksangjin 8-ro|01|울산광역시|Ulsan|북구|Buk-gu|송정동|Songjeong-dong|1|126|0||신규||
+312004316043|덕거리길|Deokgeori-gil|00|울산광역시|Ulsan|북구|Buk-gu|||2||1|1|||
+312004316043|덕거리길|Deokgeori-gil|01|울산광역시|Ulsan|북구|Buk-gu|화봉동|Hwabong-dong|1|125|1|1|||
+312004316043|덕거리길|Deokgeori-gil|02|울산광역시|Ulsan|북구|Buk-gu|송정동|Songjeong-dong|1|126|1|1|||
+312004854868|당수골4길|Dangsugol 4-gil|01|울산광역시|Ulsan|북구|Buk-gu|매곡동|Maegok-dong|1|103|0||신규||
+312004854900|당수골32길|Dangsugol 32-gil|01|울산광역시|Ulsan|북구|Buk-gu|호계동|Hogye-dong|1|102|0||신규||
+312004855841|송정18길|Songjeong 18-gil|01|울산광역시|Ulsan|북구|Buk-gu|송정동|Songjeong-dong|1|126|0||신규||
+312004855941|화산2길|Hwasan 2-gil|01|울산광역시|Ulsan|북구|Buk-gu|화봉동|Hwabong-dong|1|125|0||신규||
+312004855943|화산4길|Hwasan 4-gil|01|울산광역시|Ulsan|북구|Buk-gu|화봉동|Hwabong-dong|1|125|0||신규||
+317103352448|율리삼동로|Yullisamdong-ro|00|울산광역시|Ulsan|울주군|Ulju-gun|||2||0||신규||
+317103352453|우봉강양로|Ubonggangyang-ro|00|울산광역시|Ulsan|울주군|Ulju-gun|||2||0||신규||
+317103352453|우봉강양로|Ubonggangyang-ro|01|울산광역시|Ulsan|울주군|Ulju-gun|온산읍|Onsan-eup|0|250|0||신규||
+317104319808|우봉길|Ubong-gil|00|울산광역시|Ulsan|울주군|Ulju-gun|||2||1|1|31710335245300||
+317104319808|우봉길|Ubong-gil|01|울산광역시|Ulsan|울주군|Ulju-gun|온산읍|Onsan-eup|0|250|1|1|31710335245301||
+361104856628|금당15길|Geumdang 15-gil|01|세종특별자치시|Sejong-si|||장군면|Janggun-myeon|0|350|0||신규||
+361104857151|반곡남6길|Bangongnam 6-gil|00|세종특별자치시|Sejong-si|||||2||0||신규||
+411314334617|산성대로341번길|Sanseong-daero 341beon-gil|01|경기도|Gyeonggi-do|성남시 수정구|Sujeong-gu, Seongnam-si|신흥동|Sinheung-dong|1|101|0||신규||
+411504855242|평화로525번길|Pyeonghwa-ro 525beon-gil|01|경기도|Gyeonggi-do|의정부시|Uijeongbu-si|의정부동|Uijeongbu-dong|1|101|0||신규||
+412203351557|세교4로|Segyo 4-ro|01|경기도|Gyeonggi-do|평택시|Pyeongtaek-si|세교동|Segyo-dong|1|120|0||신규||
+412203352293|신촌1로|Sinchon 1-ro|01|경기도|Gyeonggi-do|평택시|Pyeongtaek-si|칠원동|Chirwon-dong|1|105|0||신규||
+412203352294|신촌2로|Sinchon 2-ro|01|경기도|Gyeonggi-do|평택시|Pyeongtaek-si|칠원동|Chirwon-dong|1|105|0||신규||
+412203352295|신촌3로|Sinchon 3-ro|01|경기도|Gyeonggi-do|평택시|Pyeongtaek-si|칠원동|Chirwon-dong|1|105|0||신규||
+412203352297|신촌5로|Sinchon 5-ro|01|경기도|Gyeonggi-do|평택시|Pyeongtaek-si|칠원동|Chirwon-dong|1|105|0||신규||
+412204854991|상서재로2길|Sangseojae-ro 2-gil|01|경기도|Gyeonggi-do|평택시|Pyeongtaek-si|동삭동|Dongsak-dong|1|119|0||신규||
+412734855918|붉은부리길|Bulgeunburi-gil|01|경기도|Gyeonggi-do|안산시 단원구|Danwon-gu, Ansan-si|대부남동|Daebunam-dong|1|112|0||신규||
+412813351994|향동1로|Hyangdong 1-ro|01|경기도|Gyeonggi-do|고양시 덕양구|Deogyang-gu, Goyang-si|향동동|Hyangdong-dong|1|132|0||신규||
+412814382188|오금1로3길|Ogeum 1-ro 3-gil|00|경기도|Gyeonggi-do|고양시 덕양구|Deogyang-gu, Goyang-si|||2||1|1|||
+412814382189|오금1로4길|Ogeum 1-ro 4-gil|00|경기도|Gyeonggi-do|고양시 덕양구|Deogyang-gu, Goyang-si|||2||1|1|||
+412814382191|오금4로1길|Ogeum 4-ro 1-gil|00|경기도|Gyeonggi-do|고양시 덕양구|Deogyang-gu, Goyang-si|||2||1|1|||
+412853193049|율동로|Yuldong-ro|01|경기도|Gyeonggi-do|고양시 일산동구|Ilsandong-gu, Goyang-si|정발산동|Jeongbalsan-dong|1|103|0||신규||
+413703198046|현충로|Hyeonchung-ro|04|경기도|Gyeonggi-do|오산시|Osan-si|부산동|Busan-dong|1|102|0||신규||
+413903351809|거북섬북로|Geobukseombuk-ro|01|경기도|Gyeonggi-do|시흥시|Siheung-si|정왕동|Jeongwang-dong|1|132|0||신규||
+413903351827|둔대로|Dundae-ro|00|경기도|Gyeonggi-do|시흥시|Siheung-si|||2||0|4|||
+413903351827|둔대로|Dundae-ro|01|경기도|Gyeonggi-do|시흥시|Siheung-si|광석동|Gwangseok-dong|1|121|0|4|||
+414502000034|위례대로|Wirye-daero|02|경기도|Gyeonggi-do|하남시|Hanam-si|감이동|Gami-dong|1|115|0||신규||
+414614856540|덕성산단1로28번길|Deokseongsandan 1-ro 28beon-gil|01|경기도|Gyeonggi-do|용인시 처인구|Cheoin-gu, Yongin-si|이동읍|Idong-eup|0|256|0||신규||
+415004855520|중앙로6번길|Jungang-ro 6beon-gil|01|경기도|Gyeonggi-do|이천시|Icheon-si|마장면|Majang-myeon|0|340|0||신규||
+415004855521|중앙로9번길|Jungang-ro 9beon-gil|01|경기도|Gyeonggi-do|이천시|Icheon-si|마장면|Majang-myeon|0|340|0||신규||
+415004856395|고래실길|Goraesil-gil|01|경기도|Gyeonggi-do|이천시|Icheon-si|갈산동|Galsan-dong|1|108|0||신규||
+415004857035|증신로522번길|Jeungsin-ro 522beon-gil|00|경기도|Gyeonggi-do|이천시|Icheon-si|||2||0||신규||
+415004857035|증신로522번길|Jeungsin-ro 522beon-gil|01|경기도|Gyeonggi-do|이천시|Icheon-si|신둔면|Sindun-myeon|0|310|0||신규||
+415004857109|기치미길|Gichimi-gil|01|경기도|Gyeonggi-do|이천시|Icheon-si|사음동|Saeum-dong|1|111|0||신규||
+415503351396|아양1로|Ayang 1-ro|03|경기도|Gyeonggi-do|안성시|Anseong-si|옥산동|Oksan-dong|1|122|0||신규||
+415903351757|큰나래1길|Keunnarae 1-gil|01|경기도|Gyeonggi-do|화성시|Hwaseong-si|새솔동|Saesol-dong|1|140|0||신규||
+416104857085|경충대로1481번길|Gyeongchung-daero 1481beon-gil|01|경기도|Gyeonggi-do|광주시|Gwangju-si|쌍령동|Ssangnyeong-dong|1|102|0||신규||
+416303352455|만삼로|Mansam-ro|00|경기도|Gyeonggi-do|양주시|Yangju-si|||2||0||신규||
+416304852468|옥정동로7길|Okjeongdong-ro 7-gil|01|경기도|Gyeonggi-do|양주시|Yangju-si|옥정동|Okjeong-dong|1|114|0||신규||
+416304853389|고원2나길|Gowon 2na-gil|01|경기도|Gyeonggi-do|양주시|Yangju-si|고암동|Goam-dong|1|115|0||신규||
+416304853390|고원2라길|Gowon 2ra-gil|01|경기도|Gyeonggi-do|양주시|Yangju-si|고암동|Goam-dong|1|115|0||신규||
+416304857177|양주산성로49번길|Yangjusanseong-ro 49beon-gil|00|경기도|Gyeonggi-do|양주시|Yangju-si|||2||0||신규||
+418004445293|유노로110번길|Yuno-ro 110beon-gil|02|경기도|Gyeonggi-do|연천군|Yeoncheon-gun|왕징면|Wangjing-myeon|0|350|0||신규||
+427204856694|갈마로4길|Galma-ro 4-gil|01|강원도|Gangwon-do|홍천군|Hongcheon-gun|홍천읍|Hongcheon-eup|0|250|0||신규||
+427604857189|바위공원길|Bawigongwon-gil|00|강원도|Gangwon-do|평창군|Pyeongchang-gun|||2||0||신규||
+431114857165|2순환로2031번길|2sunhwan-ro 2031beon-gil|00|충청북도|Chungcheongbuk-do|청주시 상당구|Sangdang-gu, Cheongju-si|||2||0||신규||
+431304515095|외촌길|Oechon-gil|00|충청북도|Chungcheongbuk-do|충주시|Chungju-si|||2||1|1|||
+431304515095|외촌길|Oechon-gil|01|충청북도|Chungcheongbuk-do|충주시|Chungju-si|용탄동|Yongtan-dong|1|120|1|1|||
+431304515476|학골길|Hakgol-gil|00|충청북도|Chungcheongbuk-do|충주시|Chungju-si|||2||1|1|||
+431304515476|학골길|Hakgol-gil|01|충청북도|Chungcheongbuk-do|충주시|Chungju-si|용탄동|Yongtan-dong|1|120|1|1|||
+431304856104|호암수청1로|Hoamsucheong 1-ro|01|충청북도|Chungcheongbuk-do|충주시|Chungju-si|호암동|Hoam-dong|1|107|0||신규||
+431504856390|복합타운3길|Bokhaptaun 3-gil|01|충청북도|Chungcheongbuk-do|제천시|Jecheon-si|신월동|Sinwol-dong|1|112|0||신규||
+437203241026|원남장암로|Wonnamjangam-ro|02|충청북도|Chungcheongbuk-do|보은군|Boeun-gun|탄부면|Tanbu-myeon|0|340|0||신규||
+437503351418|은암산단로|Eunamsandan-ro|01|충청북도|Chungcheongbuk-do|진천군|Jincheon-gun|초평면|Chopyeong-myeon|0|320|0||신규||
+437504854679|여안4길|Yeoan4-gil|01|충청북도|Chungcheongbuk-do|진천군|Jincheon-gun|덕산읍|Deoksan-eup|0|253|0||신규||
+437603352443|호국로|Hoguk-ro|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||0||신규||
+437603352443|호국로|Hoguk-ro|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604538056|광덕4길|Gwangdeok 4-gil|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||1|1|43760335244300||
+437604538056|광덕4길|Gwangdeok 4-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|1|1|43760335244301||
+437604854205|대제산단4길|Daejesandan 4-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|괴산읍|Goesan-eup|0|250|0||신규||
+437604857115|호국로1길|Hoguk-ro 1-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857120|호국로5길|Hoguk-ro 5-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857122|호국로6길|Hoguk-ro 6-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857132|호국로2길|Hoguk-ro 2-gil|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||0||신규||
+437604857132|호국로2길|Hoguk-ro 2-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857134|호국로3길|Hoguk-ro 3-gil|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||0||신규||
+437604857134|호국로3길|Hoguk-ro 3-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857135|호국로4길|Hoguk-ro 4-gil|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||0||신규||
+437604857135|호국로4길|Hoguk-ro 4-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857138|호국로7길|Hoguk-ro 7-gil|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||0||신규||
+437604857138|호국로7길|Hoguk-ro 7-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+437604857140|호국로8길|Hoguk-ro 8-gil|00|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|||2||0||신규||
+437604857140|호국로8길|Hoguk-ro 8-gil|01|충청북도|Chungcheongbuk-do|괴산군|Goesan-gun|문광면|Mungwang-myeon|0|350|0||신규||
+441313351766|세종평택로|Sejongpyeongtaek-ro|01|충청남도|Chungcheongnam-do|천안시 동남구|Dongnam-gu, Cheonan-si|풍세면|Pungse-myeon|0|310|0||신규||
+441504554168|치미마을길|Chimimaeul-gil|02|충청남도|Chungcheongnam-do|공주시|Gongju-si|쌍신동|Ssangsin-dong|1|122|0||신규||
+441804556525|장안1길|Jangan 1-gil|00|충청남도|Chungcheongnam-do|보령시|Boryeong-si|||2||1|1|||
+441804556525|장안1길|Jangan 1-gil|01|충청남도|Chungcheongnam-do|보령시|Boryeong-si|웅천읍|Ungcheon-eup|0|250|1|1|||
+441804556526|장안2길|Jangan 2-gil|00|충청남도|Chungcheongnam-do|보령시|Boryeong-si|||2||1|1|||
+441804556526|장안2길|Jangan 2-gil|01|충청남도|Chungcheongnam-do|보령시|Boryeong-si|웅천읍|Ungcheon-eup|0|250|1|1|||
+441804556527|장안3길|Jangan 3-gil|00|충청남도|Chungcheongnam-do|보령시|Boryeong-si|||2||1|1|||
+441804556527|장안3길|Jangan 3-gil|01|충청남도|Chungcheongnam-do|보령시|Boryeong-si|웅천읍|Ungcheon-eup|0|250|1|1|||
+448003262042|봉신로|Bongsin-ro|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||1|1|44800335246600||
+448003262042|봉신로|Bongsin-ro|02|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|홍북읍|Hongbuk-eup|0|256|1|1|44800335246601||
+448003262046|산학로|Sanhak-ro|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||1|1|44800485719000||
+448003262046|산학로|Sanhak-ro|02|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|홍북읍|Hongbuk-eup|0|256|1|1|44800485719001||
+448003352466|첨단산단로|Cheomdansandan-ro|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+448003352466|첨단산단로|Cheomdansandan-ro|01|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|홍북읍|Hongbuk-eup|0|256|0||신규||
+448004857180|첨단산단5길|Cheomdansandan 5-gil|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+448004857180|첨단산단5길|Cheomdansandan 5-gil|01|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|홍북읍|Hongbuk-eup|0|256|0||신규||
+448004857190|첨단산단1길|Cheomdansandan 1-gil|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+448004857190|첨단산단1길|Cheomdansandan 1-gil|01|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|홍북읍|Hongbuk-eup|0|256|0||신규||
+448004857191|첨단산단2길|Cheomdansandan 2-gil|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+448004857192|첨단산단4길|Cheomdansandan 4-gil|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+448004857195|첨단산단6길|Cheomdansandan 6-gil|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+448004857203|첨단산단3길|Cheomdansandan 3-gil|00|충청남도|Chungcheongnam-do|홍성군|Hongseong-gun|||2||0||신규||
+451113266082|홍산로|Hongsan-ro|04|전라북도|Jeollabuk-do|전주시 완산구|Wansan-gu, Jeonju-si|삼천동2가|Samcheon-dong 2(i)-ga|1|138|0||신규||
+451114856557|효천중앙2길|Hyocheonjungang 2-gil|01|전라북도|Jeollabuk-do|전주시 완산구|Wansan-gu, Jeonju-si|효자동2가|Hyoja-dong 2(i)-ga|1|141|0||신규||
+451134854847|화암2길|Hwaam 2-gil|01|전라북도|Jeollabuk-do|전주시 덕진구|Deokjin-gu, Jeonju-si|송천동2가|Songcheon-dong 2(i)-ga|1|122|0||신규||
+451304857193|우체통거리1길|Uchetong-geori 1-gil|00|전라북도|Jeollabuk-do|군산시|Gunsan-si|||2||0||신규||
+451304857193|우체통거리1길|Uchetong-geori 1-gil|01|전라북도|Jeollabuk-do|군산시|Gunsan-si|중앙로1가|Jungangno 1(il)-ga|1|118|0||신규||
+451304857193|우체통거리1길|Uchetong-geori 1-gil|02|전라북도|Jeollabuk-do|군산시|Gunsan-si|신창동|Sinchang-dong|1|105|0||신규||
+451304857193|우체통거리1길|Uchetong-geori 1-gil|03|전라북도|Jeollabuk-do|군산시|Gunsan-si|명산동|Myeongsan-dong|1|115|0||신규||
+451304857194|우체통거리2길|Uchetong-geori 2-gil|00|전라북도|Jeollabuk-do|군산시|Gunsan-si|||2||0||신규||
+451304857194|우체통거리2길|Uchetong-geori 2-gil|01|전라북도|Jeollabuk-do|군산시|Gunsan-si|신창동|Sinchang-dong|1|105|0||신규||
+451304857194|우체통거리2길|Uchetong-geori 2-gil|02|전라북도|Jeollabuk-do|군산시|Gunsan-si|개복동|Gaebok-dong|1|117|0||신규||
+451304857194|우체통거리2길|Uchetong-geori 2-gil|03|전라북도|Jeollabuk-do|군산시|Gunsan-si|명산동|Myeongsan-dong|1|115|0||신규||
+451804610735|원동길|Wondong-gil|02|전라북도|Jeollabuk-do|정읍시|Jeongeup-si|신태인읍|Sintaein-eup|0|250|0||신규||
+461303351625|웅천남6로|Ungcheonnam 6-ro|01|전라남도|Jeollanam-do|여수시|Yeosu-si|웅천동|Ungcheon-dong|1|134|0||신규||
+461503351634|가산로|Gasan-ro|01|전라남도|Jeollanam-do|순천시|Suncheon-si|해룡면|Haeryong-myeon|0|310|0||신규||
+461504856900|생태배움길|Saengtaebaeum-gil|02|전라남도|Jeollanam-do|순천시|Suncheon-si|연향동|Yeonhyang-dong|1|114|0||신규||
+461704652264|석당간길|Seokdanggan-gil|03|전라남도|Jeollanam-do|나주시|Naju-si|대호동|Daeho-dong|1|116|0||신규||
+469103352306|천사대교로|Cheonsadaegyo-ro|01|전라남도|Jeollanam-do|신안군|Sinan-gun|암태면|Amtae-myeon|0|420|0||신규||
+471114853239|장동홍계길80번길|Jangdonghonggye-gil 80beon-gil|02|경상북도|Gyeongsangbuk-do|포항시 남구|Nam-gu, Pohang-si|연일읍|Yeonil-eup|0|253|0||신규||
+471114857162|일출로456번길|Ilchul-ro 456beon-gil|00|경상북도|Gyeongsangbuk-do|포항시 남구|Nam-gu, Pohang-si|||2||0||신규||
+471114857162|일출로456번길|Ilchul-ro 456beon-gil|01|경상북도|Gyeongsangbuk-do|포항시 남구|Nam-gu, Pohang-si|구룡포읍|Guryongpo-eup|0|250|0||신규||
+471134857147|신흥로85번길|Sinheung-ro 85beon-gil|00|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|||2||0||신규||
+471134857147|신흥로85번길|Sinheung-ro 85beon-gil|01|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|신광면|Singwang-myeon|0|310|0||신규||
+471134857153|미남길119번길|Minam-gil 119beon-gil|00|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|||2||0||신규||
+471134857153|미남길119번길|Minam-gil 119beon-gil|01|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|청하면|Cheongha-myeon|0|320|0||신규||
+471134857164|삼흥로536번길|Samheung-ro 536beon-gil|00|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|||2||0||신규||
+471134857164|삼흥로536번길|Samheung-ro 536beon-gil|01|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|흥해읍|Heunghae-eup|0|250|0||신규||
+471134857187|계전길205번길|Gyejeon-gil 205beon-gil|00|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|||2||0||신규||
+471134857187|계전길205번길|Gyejeon-gil 205beon-gil|01|경상북도|Gyeongsangbuk-do|포항시 북구|Buk-gu, Pohang-si|기계면|Gigye-myeon|0|340|0||신규||
+471904853485|교리북길|Gyoribuk-gil|01|경상북도|Gyeongsangbuk-do|구미시|Gumi-si|선산읍|Seonsan-eup|0|250|0||신규||
+471904854653|옥계신당로9길|Okgyesindang-ro 9-gil|01|경상북도|Gyeongsangbuk-do|구미시|Gumi-si|산동면|Sandong-myeon|0|350|0||신규||
+472504733237|매봉길|Maebong-gil|02|경상북도|Gyeongsangbuk-do|상주시|Sangju-si|화동면|Hwadong-myeon|0|400|0||신규||
+472904855612|선항1길|Seonhang 1-gil|01|경상북도|Gyeongsangbuk-do|경산시|Gyeongsan-si|진량읍|Jillyang-eup|0|253|0||신규||
+477304856664|중리1길|Jungni 1-gil|01|경상북도|Gyeongsangbuk-do|의성군|Uiseong-gun|의성읍|Uiseong-eup|0|250|0||신규||
+477704857167|매정농공길|Maejeongnonggong-gil|00|경상북도|Gyeongsangbuk-do|영덕군|Yeongdeok-gun|||2||0||신규||
+477704857169|매정농공1길|Maejeongnonggong 1-gil|00|경상북도|Gyeongsangbuk-do|영덕군|Yeongdeok-gun|||2||0||신규||
+478303352454|동고령산단로|Donggoryeongsandan-ro|00|경상북도|Gyeongsangbuk-do|고령군|Goryeong-gun|||2||0||신규||
+478303352454|동고령산단로|Donggoryeongsandan-ro|01|경상북도|Gyeongsangbuk-do|고령군|Goryeong-gun|성산면|Seongsan-myeon|0|330|0||신규||
+478303352456|다산강변로|Dasangangbyeon-ro|00|경상북도|Gyeongsangbuk-do|고령군|Goryeong-gun|||2||0||신규||
+478304857168|동고령산단1길|Donggoryeongsandan 1-gil|00|경상북도|Gyeongsangbuk-do|고령군|Goryeong-gun|||2||0||신규||
+478304857170|동고령산단2길|Donggoryeongsandan 2-gil|00|경상북도|Gyeongsangbuk-do|고령군|Goryeong-gun|||2||0||신규||
+481233352446|상복산단1로|Sangboksandan 1-ro|00|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|||2||0||신규||
+481233352447|상복산단2로|Sangboksandan 2-ro|00|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|||2||0||신규||
+481234784245|창곡로128번길|Changgok-ro 128beon-gil|00|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|||2||1|1|||
+481234784245|창곡로128번길|Changgok-ro 128beon-gil|01|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|창곡동|Changgok-dong|1|115|1|1|||
+481234857160|상복산단1로35번길|Sangboksandan 1-ro 35beon-gil|00|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|||2||0||신규||
+481234857160|상복산단1로35번길|Sangboksandan 1-ro 35beon-gil|01|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|창곡동|Changgok-dong|1|115|0||신규||
+481234857161|상복산단2로10번길|Sangboksandan 2-ro 10beon-gil|00|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|||2||0||신규||
+481234857161|상복산단2로10번길|Sangboksandan 2-ro 10beon-gil|01|경상남도|Gyeongsangnam-do|창원시 성산구|Seongsan-gu, Changwon-si|창곡동|Changgok-dong|1|115|0||신규||
+482503352444|서김해산단로|Seogimhaesandan-ro|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504805623|율하2로11번길|Yulha 2-ro 11beon-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||1|1|48250485714800||
+482504805623|율하2로11번길|Yulha 2-ro 11beon-gil|02|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|관동동|Gwandong-dong|1|130|1|1|48250485714801||
+482504805630|율하3로91번길|Yulha 3-ro 91beon-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||1|1|||
+482504805630|율하3로91번길|Yulha 3-ro 91beon-gil|02|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|관동동|Gwandong-dong|1|130|1|1|||
+482504805631|율하4로40번길|Yulha 4-ro 40beon-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||1|1|||
+482504805631|율하4로40번길|Yulha 4-ro 40beon-gil|02|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|장유동|Jang-yu-dong|1|132|1|1|||
+482504857148|율하카페길|Yulha cafe-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857148|율하카페길|Yulha cafe-gil|01|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|관동동|Gwandong-dong|1|130|0||신규||
+482504857152|서김해산단안길|Seogimhaesandanan-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857154|율하뜰천길|Yulhatteulcheon-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857155|율하숲길|Yulhasup-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857156|율하솔길|Yulhasol-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857157|율하모산길|Yulhamosan-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857158|율하배산길|Yulhabaesan-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+482504857159|율하임수길|Yulhaimsu-gil|00|경상남도|Gyeongsangnam-do|김해시|Gimhae-si|||2||0||신규||
+483103352457|고현항로|Gohyeonhang-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352458|고현항1로|Gohyeonhang 1-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352459|고현항2로|Gohyeonhang 2-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352460|독봉산로|Dokbongsan-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352461|양정로|Yangjeong-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352462|산양천로|Sanyangcheon-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352463|소동로|Sodong-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483103352464|산달연륙로|Sandaryeollyuk-ro|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857181|고현항3길|Gohyeonhang 3-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857182|고현항4길|Gohyeonhang 4-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857183|고현항5길|Gohyeonhang 5-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857184|소동7길|Sodong 7-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857185|소동8길|Sodong 8-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857186|반송재2길|Bansongjae 2-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+483104857188|성포로2길|Seongpo-ro 2-gil|00|경상남도|Gyeongsangnam-do|거제시|Geoje-si|||2||0||신규||
+487403000054|과학남로|Gwahangnam-ro|00|경상남도|Gyeongsangnam-do|창녕군|Changnyeong-gun|||2||1|1|48740300005401||
+487403352418|국가산단남로|Gukgasandannam-ro|00|경상남도|Gyeongsangnam-do|창녕군|Changnyeong-gun|||2||0||신규||
+488904857205|호수전원길|Hosujeonwon-gil|00|경상남도|Gyeongsangnam-do|합천군|Hapcheon-gun|||2||0||신규||
+501104857166|신흥로3길|Sinheung-ro 3-gil|00|제주특별자치도|Jeju-do|제주시|Jeju-si|||2||0||신규||
